@@ -16,7 +16,7 @@ typedef struct {
 } StatistiquesAnnee;
 
 
-// Tableau contenant les statistiques des 20 NB_ANNEES
+//  Tableau contenant les statistiques des 20 NB_ANNEES
 
 typedef struc {
     StatistiquesAnnee annees[NB_ANNEES];
