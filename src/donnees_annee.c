@@ -16,7 +16,7 @@ void initialiser_donnees_annees(DonneesAnnees *donnees) {
 }
 
 
-// Ajout d'un accident distinct
+//  Ajout d'un accident distinct
 
 void ajouter_accident(DonneesAnnees *donnees, int annee) {
     int indice;
